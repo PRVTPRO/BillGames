@@ -4,3 +4,4 @@ Can be adapted to any game that uses RCON. Stop using generic control panels and
 
 ![Billing](Main.png)
 ![Billing](Main2.png)
+100 stars, and the source code of the early version will be available here.
